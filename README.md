@@ -42,7 +42,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 1. Clone the repository:
     ```
-    git clone https://github.com/your-username/heart-disease-classification.git
+    git clone https://github.com/mrYamusa/Scikit-learn-Heart-Disease-classification.git
     ```
 2. Navigate to the project directory:
     ```
